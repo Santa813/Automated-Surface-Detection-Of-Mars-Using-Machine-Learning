@@ -9,6 +9,8 @@ improved_model.ipynb: improved CNN model
 
 Label_data.ipynb: dataset prepocessing
 
+label-map-proj.txt: file contains mapping of image to it actual class
+
 Main.py: streamlit web app for implementation of the trained model
 
 ML frameworks like TensorFlow, Keras, and PyTorch alongside OpenCV for automated Mars surface detection. 
