@@ -4,8 +4,11 @@ Dataset used in this project is taken from: https://github.com/niehusst/HiRISE-N
 Download map-proj directory
 
 model.ipynb: initially trained CNN Model
+
 improved_model.ipynb: improved CNN model
+
 Label_data.ipynb: dataset prepocessing
+
 Main.py: streamlit web app for implementation of the trained model
 
 ML frameworks like TensorFlow, Keras, and PyTorch alongside OpenCV for automated Mars surface detection. 
